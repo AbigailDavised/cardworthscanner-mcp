@@ -5,6 +5,8 @@
 [![Status](https://img.shields.io/badge/Status-Active%20v1.0.1-success.svg)](https://cardworthscanner.com/api/mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[![CardWorthScanner - Archival TCG Price Checker & PSA Grading Valuation Suite](./assets/cover.png)](https://cardworthscanner.com)
+
 Official Model Context Protocol (MCP) server for **[CardWorthScanner.com](https://cardworthscanner.com)** — The premier AI and deterministic analytics platform for Trading Card Game (TCG) collectors, sports card investors, and card shop owners.
 
 Provides instant programmatic access to PSA/BGS/CGC grading ROI calculations, card optical centering measurements, and live market price comps across Pokemon, Magic: The Gathering (MTG), Yu-Gi-Oh!, and vintage sports cards.
