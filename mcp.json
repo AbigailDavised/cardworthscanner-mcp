@@ -1,0 +1,9 @@
+{
+  "$schema": "https://raw.githubusercontent.com/modelcontextprotocol/servers/main/schema.json",
+  "name": "cardworthscanner",
+  "version": "1.0.1",
+  "description": "Deterministic PSA / BGS / CGC grading ROI calculations, centering inspections, and TCG market comps.",
+  "url": "https://cardworthscanner.com/api/mcp",
+  "homepage": "https://cardworthscanner.com",
+  "license": "MIT"
+}

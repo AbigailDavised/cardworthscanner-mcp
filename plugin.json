@@ -1,0 +1,14 @@
+{
+  "name": "cardworthscanner",
+  "version": "1.0.1",
+  "description": "Trading card grading ROI calculator, optical centering inspector, and market price comp scanner.",
+  "homepage": "https://cardworthscanner.com",
+  "mcp": {
+    "type": "http",
+    "url": "https://cardworthscanner.com/api/mcp"
+  },
+  "author": {
+    "name": "CardWorthScanner Studio",
+    "url": "https://cardworthscanner.com"
+  }
+}
