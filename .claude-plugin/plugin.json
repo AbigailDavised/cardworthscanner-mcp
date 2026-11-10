@@ -1,9 +1,21 @@
 {
   "name": "cardworthscanner",
-  "description": "Trading card grading ROI calculator, optical centering inspector, and market price comp scanner.",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "description": "PSA/BGS/CGC trading card grading ROI calculator, 55/45 centering inspector, and TCG market valuation assistant via CardWorthScanner MCP.",
+  "homepage": "https://cardworthscanner.com",
+  "repository": "https://github.com/AbigailDavised/cardworthscanner-mcp",
+  "license": "MIT",
   "author": {
-    "name": "CardWorthScanner Studio"
+    "name": "Abigail Davised",
+    "email": "admin@cardworthscanner.com",
+    "url": "https://cardworthscanner.com"
   },
-  "homepage": "https://cardworthscanner.com"
+  "keywords": [
+    "trading-cards",
+    "psa-grading",
+    "pokemon-cards",
+    "tcg",
+    "centering-calculator",
+    "mcp"
+  ]
 }

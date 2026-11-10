@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "cardworthscanner": {
+      "type": "http",
+      "url": "https://cardworthscanner.com/api/mcp"
+    }
+  }
+}
