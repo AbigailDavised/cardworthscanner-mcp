@@ -1,4 +1,6 @@
-# CardWorthScanner MCP Server
+
+
+[![mcptry](https://mcptry.com/badge/com.cardworthscanner/mcp)](https://mcptry.com/servers/com.cardworthscanner/mcp)
 
 [![MCP Protocol](https://img.shields.io/badge/MCP-Streamable%20HTTP-blue.svg)](https://modelcontextprotocol.io)
 [![Official Website](https://img.shields.io/badge/Website-CardWorthScanner.com-emerald.svg)](https://cardworthscanner.com)
