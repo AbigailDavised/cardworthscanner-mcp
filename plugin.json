@@ -1,4 +1,5 @@
 {
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "cardworthscanner",
   "version": "1.0.2",
   "description": "PSA/BGS/CGC trading card grading ROI calculator, 55/45 centering inspector, and TCG market valuation assistant via CardWorthScanner MCP.",
@@ -17,5 +18,14 @@
     "tcg",
     "centering-calculator",
     "mcp"
-  ]
+  ],
+  "extensions": {
+    "com.nousresearch.hermes": {
+      "servers": {
+        "cardworthscanner": {
+          "trust": "untrusted"
+        }
+      }
+    }
+  }
 }
