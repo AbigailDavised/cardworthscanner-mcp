@@ -1,9 +1,9 @@
 {
-  "$schema": "https://raw.githubusercontent.com/modelcontextprotocol/servers/main/schema.json",
-  "name": "cardworthscanner",
-  "version": "1.0.1",
-  "description": "Deterministic PSA / BGS / CGC grading ROI calculations, centering inspections, and TCG market comps.",
-  "url": "https://cardworthscanner.com/api/mcp",
-  "homepage": "https://cardworthscanner.com",
-  "license": "MIT"
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "cardworthscanner": {
+      "type": "streamable-http",
+      "url": "https://cardworthscanner.com/api/mcp"
+    }
+  }
 }
