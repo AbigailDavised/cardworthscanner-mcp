@@ -1,6 +1,7 @@
 
 
 [![mcptry](https://mcptry.com/badge/com.cardworthscanner/mcp)](https://mcptry.com/servers/com.cardworthscanner/mcp)
+[![MCPRush Listing](https://mcprush.com/badge/cardworthscanner-tcg-price-centering-psa-grad-mcp/card.svg)](https://mcprush.com/to/cardworthscanner-tcg-price-centering-psa-grad-mcp?ref=badge)
 
 [![MCP Protocol](https://img.shields.io/badge/MCP-Streamable%20HTTP-blue.svg)](https://modelcontextprotocol.io)
 [![Official Website](https://img.shields.io/badge/Website-CardWorthScanner.com-emerald.svg)](https://cardworthscanner.com)
